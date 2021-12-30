@@ -8,7 +8,7 @@ smart contract program for lottery application on solidity.
 select random participants as a winner... and whole amount will be sent to that winner.
 3. condition: 
  amount should be equal to 0.1 ether.
- total participants should be greater then of equal to 3.
+ total participants should be greater then or equal to 3.
  only manager have authority to check balance and draw lottery.
  conract should be reset once a round is completed.
 

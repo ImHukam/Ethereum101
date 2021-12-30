@@ -1,5 +1,5 @@
 /* 
-this contract live on ethereum ropsten testnet network: https://ropsten.etherscan.io/address/0x16d52172e080e1fa9a12652361289ba91faba3f3#code
+this contract is live on ethereum ropsten testnet network: https://ropsten.etherscan.io/address/0x16d52172e080e1fa9a12652361289ba91faba3f3#code
 
 smart contract program for lottery application on solidity.
 

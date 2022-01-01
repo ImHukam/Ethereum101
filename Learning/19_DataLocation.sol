@@ -4,7 +4,7 @@ contract DataLocation{
 
     //storage- presistant data storage, permanent store of data, accessble all over all time.
     //memory- temoprary data storage, store as long as function run.
-    //calldata- similar to memory but read only,more detail will be cover in future.
+    //calldata- similar to memory but read only,not save anywhere. it means we can't change or modifiy calldata.
 
     //state variables
     uint data= 123; // stored in storage

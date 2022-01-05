@@ -1,3 +1,4 @@
+contract live on ropsten test network: https://ropsten.etherscan.io/address/0xf8cc3ce320db5b31abbc2c97b273f46542f0b003#code
 // SPDX-License-Identifier: GPL-3.0
 
 pragma solidity ^0.8.7;

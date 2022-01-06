@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 
-this contract is live on ethereum ropsten testnet network:
+this contract is live on ethereum ropsten testnet network: https://ropsten.etherscan.io/address/0xa4a857d673d5b19afb7c0f9336782f1af74cb858#code
 
 pragma solidity ^0.8.7;
 

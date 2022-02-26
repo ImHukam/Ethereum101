@@ -27,3 +27,5 @@ contract TImeLock{
         balances[msg.sender]=0;
     }
 }
+
+

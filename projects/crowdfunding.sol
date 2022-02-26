@@ -58,3 +58,4 @@ this contract live on ethereum ropsten testnet network: https://ropsten.ethersca
          _manager.transfer(raisedAmount);
      }
  }
+ 
